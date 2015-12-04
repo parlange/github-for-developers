@@ -1,4 +1,5 @@
 # Bio
-René Parlange
-Born in Mexico City
+René Parlange was born in Mexico City
+
+
 [Twitter](https://www.twitter.com/parlange)
