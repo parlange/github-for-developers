@@ -1,4 +1,4 @@
 # Bio
-*René Parlange
+René Parlange
 
 [Twitter](https://www.twitter.com/parlange)
