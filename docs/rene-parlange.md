@@ -1,6 +1,6 @@
 # Bio
-Name: René Parlange
+-Name: René Parlange
 
-Place of Birth: Mexico City
+-Place of Birth: Mexico City
 
 [Twitter](https://www.twitter.com/parlange)
